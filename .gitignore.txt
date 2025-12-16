@@ -1,0 +1,37 @@
+# ===============================
+# Unreal Engine
+# ===============================
+
+# Build folders
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Visual Studio / IDE
+.vs/
+*.VC.db
+*.VC.opendb
+*.sln
+*.xcodeproj
+*.xcworkspace
+
+# Rider / JetBrains
+.idea/
+*.sln.iml
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Unreal auto-generated
+*.tmp
+*.bak
+*.old
+
+# Packaging
+Build/
